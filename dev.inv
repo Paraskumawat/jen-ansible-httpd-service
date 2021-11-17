@@ -1,0 +1,1 @@
+192.168.189.250 ansible_user=root ansible_ssh_pass=hp@1 ansible_connection=ssh
